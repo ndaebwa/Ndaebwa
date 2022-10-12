@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello 😊! <br>👯 I’m looking to collaborate on lots of projects<br>🤝 I’m looking for help with many people<br>🌱 I’m currently learning DevOps<br>💬 Ask me about JavaScript, Python, Java<br>⚡ Fun fact !...!
+Hello 😊! <br>💬 Creating is my passion and drive<br>⚡ Stay hungry ! Stay foolish !
 
 
 ## 🌐 Socials:
